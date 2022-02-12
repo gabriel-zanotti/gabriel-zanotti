@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Opa! Tudo bem? Eu sou <a href="https://www.linkedin.com/in/gabriel-zanotti-8b7a69224/"><i>Gabriel Zanotti</i></a> 😎</h1>
+  <h1 align="center">Opa! Tudo bem? Eu sou <a href="https://www.linkedin.com/in/gabriel-zanotti-8b7a69224/"><i>Gabriel Zanotti</i></a> 🐱‍👤😳</h1>
   <p align="center">Seja bem vindo ao meu GitHub!</a>
   <p align="center">Sou estudante de Desenvolvimento de Softwares na <a href="https://www.alura.com.br/"><i>ALura</i></a>
   <p align="center">Tenho 19 anos, moro em São Paulo Região e atualmente estou estudando Front-End</h2>
@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/heartbreak808">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=heartbreak808&count_private=true&include_all_commits=true&show_icons=true&theme=darcula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartbreak808&theme=darcula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
