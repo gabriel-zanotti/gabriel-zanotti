@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Opa! Tudo bem? Eu sou <a href="https://www.linkedin.com/in/gabriel-zanotti-8b7a69224/"><i>Gabriel Zanotti</i></a> 🐱‍👤😳</h1>
+  <h1 align="center">Opa! Tudo bem? Me chamo <a href="https://www.linkedin.com/in/gabriel-zanotti-8b7a69224/"><i>Gabriel Zanotti</i></a> 🐱‍👤😳</h1>
   <p align="center">Seja bem vindo ao meu GitHub!</a>
   <p align="center">Sou estudante de Desenvolvimento de Softwares na <a href="https://www.alura.com.br/"><i>ALura</i></a>
   <p align="center">Tenho 19 anos, moro em São Paulo Região e atualmente estou estudando Front-End</h2>
