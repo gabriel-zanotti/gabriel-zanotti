@@ -6,9 +6,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/heartbreak808">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=heartbreak808&count_private=true&include_all_commits=true&show_icons=true&theme=darcula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartbreak808&theme=darcula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/gabriel-zanotti">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel-zanotti&count_private=true&include_all_commits=true&show_icons=true&theme=darcula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-zanotti&theme=darcula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
