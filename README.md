@@ -1,8 +1,8 @@
 <div>
-  <h1 align="center">Olá, eu me chamo <a href="https://www.linkedin.com/in/gabriel-zanotti-torino/">Gabriel Torino</a></h1>
-  <p align="center">Seja bem vindo ao meu GitHub</a>
-  <p align="center">Tenho 20 anos, moro em São Paulo e atualmente estou estudando a tecnologia Node.js</h2>
-  <p align="center">Sou um estudante autodidata, entusiasta e amante da tecnologia buscando meu lugar no mercado
+  <h1 align="center">Hi! my name is <a href="https://www.linkedin.com/in/gabriel-zanotti-torino/">Gabriel Torino</a></h1>
+  <p align="center">Welcome</a>
+  <p align="center">I'm 20 years old, I live in São Paulo and I'm currently studying Node.js technology</h2>
+  <p align="center">I am a self-taught, enthusiastic and technology-loving student looking for my place in the market
   
 </div>
 
