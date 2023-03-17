@@ -8,24 +8,10 @@
 
 <div>
     <div align="center">
-      <br>
-      <!– <img align="center" height="25"
-        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-        style="margin-right: 10px;"> ->
-      
-      
-      <! – <img align="center" height="25" src="https://img.shields.io/badge/-VTEX-red?style=for-the-badge&logoColor=61DAFB"
-        style="margin-right: 10px;"> ->
-      
-      
+      <br>     
       <img align="center" height="25"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
         style="margin-right: 10px;">
-      
-      <! – <img align="center" height="25"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-        style="margin-right: 10px;"> ->
-      
       <img align="center" height="25"
         src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         style="margin-right: 10px;">
@@ -37,14 +23,6 @@
       <img align="center" height="25"
         src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
         style="margin-right: 10px;">
-      
-      <! – <img align="center" height="25"
-        src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-        style="margin-right: 10px;"> ->
-      
-      <! – <img align="center" height="25"
-        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-        style="margin-right: 10px;"> ->
     </div>
 
 <h1 align="center">Contacts</h1>
