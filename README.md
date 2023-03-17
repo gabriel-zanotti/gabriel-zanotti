@@ -1,9 +1,10 @@
 <div>
   <h1 align="center">Olá, eu me chamo <a href="https://www.linkedin.com/in/gabriel-zanotti-8b7a69224/">Gabriel Torino</a></h1>
-  <p align="center">Seja bem vindo ao meu GitHub!</a>
-  <p align="center">Sou estudante autodidata, e estou buscando aprimorar meus conhecimentos 
-  <p align="center">para me inserir no mercado de trabalho de tecnologia
-  <p align="center">Tenho 20 anos, moro em São Paulo e atualmente estou estudando Node.js</h2>
+  <p align="center">Seja bem vindo ao meu GitHub</a>
+  <p align="center">Tenho 20 anos, moro em São Paulo e atualmente estou estudando a tecnologia Node.js</h2>
+  <p align="center">Sou um estudante autodidata, entusiasta e amante da tecnologia
+  <p align="center">
+  
 </div>
 
 <div align="center">
