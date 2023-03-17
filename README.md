@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <img align="center" width="500" src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif" alt="" className="anime_computer_gif"/>
+  <img align="center" src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif"/>
 </div>
 
 <div>
