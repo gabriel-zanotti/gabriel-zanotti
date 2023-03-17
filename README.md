@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá, eu me chamo <a href="https://www.linkedin.com/in/gabriel-zanotti-8b7a69224/"><i>Gabriel Torino</i></a> 👤</h1>
+  <h1 align="center">Olá, eu me chamo <a href="https://www.linkedin.com/in/gabriel-zanotti-8b7a69224/">Gabriel Torino</a></h1>
   <p align="center">Seja bem vindo ao meu GitHub!</a>
   <p align="center">Sou estudante autodidata, e estou buscando aprimorar meus conhecimentos 
   <p align="center">para me inserir no mercado de trabalho de tecnologia
