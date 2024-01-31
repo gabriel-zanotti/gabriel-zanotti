@@ -20,7 +20,8 @@
 
 <div>
     <div align="center">
-      <br>     
+      <br>
+      <a style="text-decoration:none" href="#">
       <img align="center" height="25"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
         style="margin-right: 10px;">
@@ -36,6 +37,7 @@
       <img align="center" height="25"
         src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
         style="margin-right: 10px;">
+      </a>
     </div>
 
 <h1 align="center">Contacts</h1>
