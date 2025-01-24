@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Hi, my name is <a href="https://www.linkedin.com/in/gabriel-zanotti-torino/">Gabriel Torino</a>🧑🏻‍💻</h1>
   <p align="center">Welcome
-  <p align="center">I'm 21 years old, I live in São Paulo and I'm currently studying on my own
+  <p align="center">I'm 22 years old, I live in São Paulo
   <p align="center">I am a self-taught, enthusiastic and technology-loving student looking for my place in the market
 </div>
 
